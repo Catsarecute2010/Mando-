@@ -1,0 +1,35 @@
+body
+{
+    background-image: url("m.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+
+#start
+{
+    background-color: rgba(90, 97, 105, 0.829);
+    color: white;
+}
+
+#number_of_objects
+{
+    background-color: rgba(111, 120, 131, 0.637);
+}
+
+#status
+{
+    background-color: rgba(110, 116, 124, 0.74);
+}
+
+#heding
+{
+    color: white;
+}
+
+canvas
+{
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+}
